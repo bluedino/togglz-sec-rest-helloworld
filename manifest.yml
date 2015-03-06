@@ -1,0 +1,7 @@
+applications:
+  target:
+    name: togglz-sec-rest-helloworld
+    mem: 512M
+    instances: 1
+    framework: java_web
+    runtime: java7
